@@ -1,7 +1,35 @@
-### Hi there 👋
+<h1>Hola, soy Agustina :) </h1>
+
+<h2>👩‍💻 Mis proyectos de programación:</h2>
+
+- <b>C++ (implementación de funciones, estructuras estáticas y dinámicas (pilas, colas, listas, multilistas), archivos secuenciales)</b>
+  - [Caso práctico: Procesamiento de compras en empresa constructora](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Aplicación de métodos de ordenamiento](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Java y C# (POO)</b>
+    - [Caso práctico: Máquinas expendedoras](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+    - [Caso práctico: Infracciones de tránsito](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+    - [Caso práctico: Club deportivo](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+    - [Chat grupal (implementación de sockets)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+
+- <b>Arduino: </b>
+  - [Controlador MIDI: Invención de una Guitarra-Theremín](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Sensor ultrasónico con BD distribuida utilizando Go](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  
+- <b>Android: </b>
+  - [App juego Tatetí](https://github.com/joshmadakor1/EncrypterPOC)
+  - [App Aerolínea](https://github.com/joshmadakor1/DecrypterPOC)
+- <b>HTML, CSS y JavaScript: </b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+
+<h2> 🤳 Conectate conmigo:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/agustina-pose/
 
 <!--
-**agusflorenciap/agusflorenciap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
