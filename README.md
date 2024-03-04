@@ -20,7 +20,7 @@
   - [App Tatetí](https://github.com/joshmadakor1/EncrypterPOC)
   - [App Aerolínea](https://github.com/joshmadakor1/DecrypterPOC)
 - <b>HTML, CSS y JavaScript</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Proyecto Web)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
 <h2> 🤳 Conectate conmigo</h2>
