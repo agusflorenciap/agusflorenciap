@@ -4,7 +4,7 @@
 
 - <b>C++: implementación de funciones, estructuras estáticas y dinámicas (pilas, colas, listas, multilistas), archivos secuenciales</b>
   - [Métodos de ordenamiento](https://github.com/agusflorenciap/MetodosOrdenamiento)
-  - [Caso práctico: Empresa constructora](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Caso práctico: Empresa constructora](https://github.com/agusflorenciap/Constructora)
     
 - <b>POO: Java y C#</b>
     - [Caso práctico: Máquinas expendedoras](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
