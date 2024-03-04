@@ -3,7 +3,7 @@
 <h2>👩‍💻 Mis proyectos de programación:</h2>
 
 - <b>C++: implementación de funciones, estructuras estáticas y dinámicas (pilas, colas, listas, multilistas), archivos secuenciales</b>
-  - [Métodos de ordenamiento](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Métodos de ordenamiento](https://github.com/agusflorenciap/MetodosOrdenamiento)
   - [Caso práctico: Empresa constructora](https://github.com/joshmadakor1/Algorithms-Practice)
     
 - <b>POO: Java y C#</b>
