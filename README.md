@@ -2,28 +2,28 @@
 
 <h2>👩‍💻 Mis proyectos de programación:</h2>
 
-- <b>C++ (implementación de funciones, estructuras estáticas y dinámicas (pilas, colas, listas, multilistas), archivos secuenciales)</b>
+- <b>C++: implementación de funciones, estructuras estáticas y dinámicas (pilas, colas, listas, multilistas), archivos secuenciales</b>
   - [Métodos de ordenamiento](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Caso práctico: Empresa constructora](https://github.com/joshmadakor1/Algorithms-Practice)
     
-- <b>Java y C# (POO)</b>
+- <b>POO: Java y C#</b>
     - [Caso práctico: Máquinas expendedoras](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
     - [Caso práctico: Infracciones de tránsito](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
     - [Caso práctico: Club deportivo](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
     - [Chat grupal (implementación de sockets)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 
-- <b>Arduino: </b>
+- <b>Arduino</b>
   - [Controlador MIDI: Guitarra-Theremín](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Sensor ultrasónico con BD distribuida utilizando Go](https://github.com/joshmadakor1/Jwipe.PowerShell)
   
-- <b>Android: </b>
+- <b>Android</b>
   - [App Tatetí](https://github.com/joshmadakor1/EncrypterPOC)
   - [App Aerolínea](https://github.com/joshmadakor1/DecrypterPOC)
-- <b>HTML, CSS y JavaScript: </b>
+- <b>HTML, CSS y JavaScript</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
-<h2> 🤳 Conectate conmigo:</h2>
+<h2> 🤳 Conectate conmigo</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
