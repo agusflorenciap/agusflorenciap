@@ -10,7 +10,7 @@
     - [Caso práctico: Máquinas expendedoras](https://github.com/agusflorenciap/MaqAutomaticas)
     - [Caso práctico: Infracciones de tránsito](https://github.com/agusflorenciap/Infracciones)
     - [Caso práctico: Club deportivo](https://github.com/agusflorenciap/Club)
-    - [Chat grupal (implementación de sockets)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+    - [Chat grupal (implementación de sockets)](https://github.com/agusflorenciap/Chat)
 
 - <b>Arduino</b>
   - [Controlador MIDI: Guitarra-Theremín](https://github.com/joshmadakor1/Sentinel-Lab)
