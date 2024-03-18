@@ -14,7 +14,7 @@
 
 - <b>Arduino</b>
   - [Controlador MIDI: Guitarra-Theremín](https://github.com/agusflorenciap/GuitarraTheremin)
-  - [Sensor ultrasónico con BD distribuida utilizando Go](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Sensor ultrasónico con BD distribuida utilizando Go](https://github.com/agusflorenciap/ArduinoGo)
   
 - <b>Android</b>
   - [App Tatetí](https://github.com/joshmadakor1/EncrypterPOC)
