@@ -13,7 +13,7 @@
     - [Chat grupal (implementación de sockets)](https://github.com/agusflorenciap/Chat)
 
 - <b>Arduino</b>
-  - [Controlador MIDI: Guitarra-Theremín](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Controlador MIDI: Guitarra-Theremín](https://github.com/agusflorenciap/GuitarraTheremin)
   - [Sensor ultrasónico con BD distribuida utilizando Go](https://github.com/joshmadakor1/Jwipe.PowerShell)
   
 - <b>Android</b>
