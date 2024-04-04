@@ -17,7 +17,7 @@
   - [Sensor ultrasónico con BD distribuida utilizando Go](https://github.com/agusflorenciap/ArduinoGo)
   
 - <b>Android</b>
-  - [App Tatetí](https://github.com/joshmadakor1/EncrypterPOC)
+  - [App Tatetí](https://github.com/agusflorenciap/JuegoTateti)
   - [App Aerolínea](https://github.com/joshmadakor1/DecrypterPOC)
 - <b>HTML, CSS y JavaScript</b>
   - [Proyecto Web](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
