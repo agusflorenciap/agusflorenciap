@@ -18,7 +18,7 @@
   
 - <b>Android</b>
   - [App Tatetí](https://github.com/agusflorenciap/JuegoTateti)
-  - [App Aerolínea](https://github.com/joshmadakor1/DecrypterPOC)
+  - [App Aerolínea](https://github.com/agusflorenciap/aerolinea)
 - <b>HTML, CSS y JavaScript</b>
   - [Proyecto Web](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
